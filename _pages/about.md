@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the description of how I make kočička wanting to be my gf!!
+This is the description of how I made kočička wanting to be my gf!!
