@@ -86,7 +86,27 @@ Work experience
 
 Skills
 ======
-* C and C++ (5*)
+* Technical:
+  * Python (5*)
+  * PyTorch (5*)
+  * C and C++ (5*)
+  * Matlab (5*)
+  * Latex (5*)
+  * TensorFlow (4*)
+
+* Project management:
+  * Leadership
+  * Delivery
+  * Scheduling
+
+* Others:
+  * Group work
+  * Ambition
+  * Patience
+  * Teaching
+  * Flexibility
+  * Listening
+
 * Languagues
   * Spanish (native)
   * English (C1)
