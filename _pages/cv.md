@@ -112,6 +112,7 @@ Skills
   * Spanish (native)
   * English (C1)
 
+<sub>Skills value from zero to five stars</sub>
 
 Publications
 ======
