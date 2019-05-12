@@ -86,12 +86,11 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C and C++ (5*)
+* Languagues
+  * Spanish (native)
+  * English (C1)
+
 
 Publications
 ======
