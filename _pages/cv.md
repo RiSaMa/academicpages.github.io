@@ -11,22 +11,79 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Vision
+  * Project *Online multiple object tracking*
+  * Queen Mary University of London (United Kingdom)
+  * Supervisor Prof. Andrea Cavallaro
+  * 2019 (expected)
+
+* M.Sc. in Telecommunication Engineering
+  * Project *Hierarchical detection of groups of people under occlusions*
+  * Universidad Autónoma de Madrid (Spain)
+  * Supervisor Prof. Jose María Martínez Sánchez
+  * 2014
+
+* B.Sc. in Telecommunication Engineering
+  * Universidad Autónoma de Madrid (Spain)
+  * 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Assistant researcher
+  * Computer Vision assistant researcher in the project [*CORSMAL*](http://corsmal.eecs.qmul.ac.uk). Main focus on multi-object tracking from visual data
+  * Queen Mary University of London (United Kingdom)
+  * Supervisor Prof. Andrea Cavallaro
+  * 2019-present
+
+* Reviewer
+  * IEEE International Conference on Image Processing
+  * 2019-present
+
+* Teacher Assistant
+  * Data Analytics course for graduate and post-graduate students
+  * Queen Mary University of London
+  * Supervisor Dr. Anthony Constantinou
+  * 2019
+
+* Senior Teacher Assistant
+  * Data Mining course for graduate and post-graduate students
+  * Queen Mary University of London
+  * Supervisor Prof. Ioannis Patras and Dr. Jesus Requena Carrión
+  * 2019
+
+* Intern
+  * Deep learning for object tracking over occlusion
+  * Supervisors Vaishak Belle, Chris Russell and Brooks Paige
+  * 2018
+
+* Teacher Assistant
+  * Data Mining course for post-graduate students
+  * Queen Mary University of London
+  * Supervisor Prof. Ioannis Patras
+  * 2018
+
+* Reviewer
+  * IEEE Transactions on Circuits and Systems for Video Technology
+  * 2016-present
+
+* Reviewer
+  * IEEE/RSJ International Conference on Intelligent Robots and Systems
+  * 2016-present
+
+* Assistant researcher
+  * Computer Vision assistant researcher in multiple projects including the European project [*COPCAMS*](http://www.copcams.eu). Main focus on multi-object tracking from visual data
+  * Queen Mary University of London (United Kingdom)
+  * Supervisor Prof. Andrea Cavallaro
+  * 2014-2015
+
+* Researcher
+  * Computer Vision researcher under the European project [*EventVideo*](http://www-vpu.eps.uam.es/eventvideo/) for object detection from visual data. Main focus on object detection under occlusions from visual data.
+  * Universidad Autónoma de Madrid (Spain)
+  * Supervisor Prof. Jose María Martínez Sánchez
+  * 2013-2014
+
+
 Skills
 ======
 * Skill 1
