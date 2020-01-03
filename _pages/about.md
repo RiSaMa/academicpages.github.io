@@ -15,7 +15,7 @@ During my Ph.D., I investigated the problem of localising, estimating the physic
 As research assistant, I collaborated in international projects where I investigated topics such as: object detection from visual data ([*EventVideo*](http://www-vpu.eps.uam.es/eventvideo/)), object tracking from visual data ([*COPCAMS*](http://www.copcams.eu)), and multi-modal signal processing and machine learning algorithms for human-to-robot handover of unseen objects [(*CORSMAL*](http://corsmal.eecs.qmul.ac.uk)).
  
 
-News
+Highlights
 ======
 * Paper accepted in IEEE Robotics and Automation Letters (Dec. 2019)
 * Paper accepted in IEEE Signal Processing Magazine (Dec. 2019)
