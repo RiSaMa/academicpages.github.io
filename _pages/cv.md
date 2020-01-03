@@ -32,7 +32,7 @@ Work experience
 
 * Assistant researcher
   * Computer Vision assistant researcher in the project [*CORSMAL*](http://corsmal.eecs.qmul.ac.uk). Main focus on multi-object tracking from visual data
-  * Queen Mary University of London (United Kingdom)
+  * Queen Mary University of London (London, UK)
   * Supervisor Prof. Andrea Cavallaro
   * 2019-present
 
@@ -42,24 +42,25 @@ Work experience
 
 * Teacher Assistant
   * Data Analytics course for graduate and post-graduate students
-  * Queen Mary University of London
+  * Queen Mary University of London (London, UK)
   * Supervisor Dr. Anthony Constantinou
   * 2019
 
 * Senior Teacher Assistant
   * Data Mining course for graduate and post-graduate students
-  * Queen Mary University of London
+  * Queen Mary University of London (London, UK)
   * Supervisor Prof. Ioannis Patras and Dr. Jesus Requena Carrión
   * 2019
 
 * Intern
   * Deep learning for object tracking over occlusion
+  * The Alan Turing Insitute (London, UK)
   * Supervisors Vaishak Belle, Chris Russell and Brooks Paige
   * 2018
 
 * Teacher Assistant
   * Data Mining course for post-graduate students
-  * Queen Mary University of London
+  * Queen Mary University of London (London, UK)
   * Supervisor Prof. Ioannis Patras
   * 2018
 
@@ -73,13 +74,13 @@ Work experience
 
 * Assistant researcher
   * Computer Vision assistant researcher in multiple projects including the European project [*COPCAMS*](http://www.copcams.eu). Main focus on multi-object tracking from visual data
-  * Queen Mary University of London (United Kingdom)
+  * Queen Mary University of London (London, UK)
   * Supervisor Prof. Andrea Cavallaro
   * 2014-2015
 
 * Researcher
   * Computer Vision researcher under the European project [*EventVideo*](http://www-vpu.eps.uam.es/eventvideo/) for object detection from visual data. Main focus on object detection under occlusions from visual data.
-  * Universidad Autónoma de Madrid (Spain)
+  * Universidad Autónoma de Madrid (Madrid, Spain)
   * Supervisor Prof. Jose María Martínez Sánchez
   * 2013-2014
 
@@ -88,25 +89,25 @@ Skills
 ======
 * Technical:
   * Python (5*)
+  * PyTorch (5*)
   * C and C++ (5*)
   * Matlab (5*)
   * Latex (5*)
   * OpenCV (5*)
-  * PyTorch (5*)
   * TensorFlow (4*)
 
 * Project management:
   * Leadership
   * Delivery
   * Scheduling
+  * Problem solving
 
 * Others:
-  * Group work
+  * Collaboration
   * Ambition
   * Patience
   * Teaching
   * Flexibility
-  * Listening
 
 * Languagues
   * Spanish (native)
