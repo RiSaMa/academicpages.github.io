@@ -31,6 +31,5 @@ Machine learning, deep learning, computer vision, robotic applications, privacy 
 
 Contact details
 ======
-Ricardo Sanchez-Matilla
-
+Ricardo Sanchez-Matilla  
 email: ricardosm89 - - gmail.com
