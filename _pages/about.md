@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
 I am a Ph.D. candidate (expected completion in 2020) and a research assistant in Electronic Engineering and Computer Science at Queen Mary University of London (QMUL), UK.
 
 During my Ph.D., I investigated the problem of localising, estimating the physical properties of, and tracking objects from audio and video signals that are the basis for applications such as surveillance, search and rescue, extraction of objects' patterns and robotic applications. Also, I investigated methods for protecting privacy information of images from unwanted inferences trough the use of adversarial images.
