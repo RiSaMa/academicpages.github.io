@@ -15,7 +15,7 @@ Education
   * Project *Online multiple object tracking*
   * Queen Mary University of London (United Kingdom)
   * Supervisor Prof. Andrea Cavallaro
-  * 2019 (expected)
+  * 2020 (expected)
 
 * M.Sc. in Telecommunication Engineering
   * Project *Hierarchical detection of groups of people under occlusions*
