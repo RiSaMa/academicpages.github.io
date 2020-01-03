@@ -110,7 +110,7 @@ Skills
 
 * Languagues
   * Spanish (native)
-  * English (C1)
+  * English (Full Professional working proficiency)
 
 <sub>Skills value from zero to five stars</sub>
 
