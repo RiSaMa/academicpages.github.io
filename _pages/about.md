@@ -22,8 +22,8 @@ Highlights
 * Paper accepted in IEEE Robotics and Automation Letters (Dec. 2019)
 * Paper accepted in IEEE Signal Processing Magazine (Dec. 2019)
 * Ph.D. thesis submitted (Nov. 2019)
-* Presentation at IEEE/RSJ Int. Conf. on Intelligent Robots and Systems - IROS (Nov. 2019)
-* Presentation at IEEE Int. Conf. on Image Processing - ICIP (Sep. 2019)
+* Talk at IEEE/RSJ Int. Conf. on Intelligent Robots and Systems - IROS (Nov. 2019)
+* Talk at IEEE Int. Conf. on Image Processing - ICIP (Sep. 2019)
 * Panel member at IEEE SPS Video and Image Processing Cup (Sep. 2019)
 
 Research interests
