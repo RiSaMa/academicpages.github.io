@@ -90,10 +90,11 @@ Skills
 * Technical:
   * Python (5*)
   * PyTorch (5*)
+  * Computer Vision (5*)
   * C and C++ (5*)
   * Matlab (5*)
-  * Latex (5*)
   * OpenCV (5*)
+  * Latex (5*)
   * TensorFlow (4*)
 
 * Project management:
