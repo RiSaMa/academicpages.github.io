@@ -91,10 +91,10 @@ Skills
   * Python (5*)
   * C and C++ (5*)
   * Matlab (5*)
-  * PyTorch, TensorFlow (5*)
+  * PyTorch (5*)
+  * TensorFlow (4*)
   * OpenCV (5*)
   * Latex (5*)
-  * TensorFlow (4*)
 
 * Others:
   * Hard work
