@@ -89,30 +89,25 @@ Skills
 ======
 * Technical:
   * Python (5*)
-  * PyTorch (5*)
-  * Computer Vision (5*)
   * C and C++ (5*)
   * Matlab (5*)
+  * PyTorch, TensorFlow (5*)
   * OpenCV (5*)
   * Latex (5*)
   * TensorFlow (4*)
 
-* Project management:
+* Others:
+  * Hard work
+  * Flexible
+  * Quick learner
+  * Teamwork
+  * Ambition
   * Leadership
-  * Delivery
-  * Scheduling
   * Problem solving
 
-* Others:
-  * Collaboration
-  * Ambition
-  * Patience
-  * Teaching
-  * Flexibility
-
 * Languagues
+  * English (full professional working proficiency)
   * Spanish (native)
-  * English (Full Professional working proficiency)
 
 <sub>Skills value from zero to five stars</sub>
 
