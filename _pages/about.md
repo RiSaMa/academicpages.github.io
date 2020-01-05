@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate (expected completion in 2020) and a research assistant in Electronic Engineering and Computer Science at Queen Mary University of London (QMUL), UK.
+I am a Ph.D. candidate (expected completion in 2020) and a research assistant in Electronic Engineering and Computer Science at Queen Mary University of London (QMUL), London, UK.
 
 During my Ph.D., I investigated the problem of localising, estimating the physical properties of, and tracking objects from audio and video signals that are the basis for applications such as surveillance, search and rescue, extraction of objects' patterns and robotic applications. Also, I investigated methods for protecting privacy information of images from unwanted inferences using adversarial images.
 
-As research assistant, I collaborated in international projects where I investigated topics such as: object detection from visual data ([*EventVideo*](http://www-vpu.eps.uam.es/eventvideo/)), object tracking from visual data ([*COPCAMS*](http://www.copcams.eu)), and multi-modal signal processing and machine learning algorithms for human-to-robot handover of unseen objects [(*CORSMAL*](http://corsmal.eecs.qmul.ac.uk)).
+As research assistant, I collaborated in international projects where I investigated topics such as: object detection from visual data ([*EventVideo*](http://www-vpu.eps.uam.es/eventvideo/)), object tracking from visual data ([*COPCAMS*](http://www.copcams.eu)), and multi-modal signal processing and machine learning algorithms for human-to-robot handover of unseen objects [(*CORSMAL*)](http://corsmal.eecs.qmul.ac.uk).
  
 With more than 6 years of working experience, I got my work published in peer-reviewed international journals such as IEEE Signal Processing Magazine, IEEE Transactions on Robotics and Automation Letters; and international conferences including IEEE/RSJ Int. Conf. on Intelligent Robots and Systems, IEEE Int. Conf. on Image Processing, ACM Multimedia and IEEE Int. Conf. on Acoustics, Speech and Signal Processing.
 
@@ -28,8 +28,7 @@ Highlights
 
 Research interests
 ======
-Machine learning, deep learning, computer vision, robotic applications, privacy and tracking.
-
+Machine learning, deep learning, computer vision, robotics, privacy, tracking.
 
 Contact details
 ======
