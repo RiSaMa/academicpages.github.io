@@ -31,7 +31,7 @@ Work experience
 ======
 
 * Assistant researcher
-  * Computer Vision assistant researcher in the project [*CORSMAL*](http://corsmal.eecs.qmul.ac.uk). Main focus on multi-object tracking from visual data
+  * Computer Vision assistant researcher in the project [*CORSMAL*](http://corsmal.eecs.qmul.ac.uk). Main focus on estimation of physical properties of objects for human-to-robot handover of unseen objects from visual data
   * Queen Mary University of London (London, UK)
   * Supervisor Prof. Andrea Cavallaro
   * 2019-present
