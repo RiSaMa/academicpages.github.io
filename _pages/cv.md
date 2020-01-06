@@ -33,20 +33,18 @@ Work experience
   * Supervisor Prof. Andrea Cavallaro
   * 2019-present
 
-* Reviewer
-  * IEEE International Conference on Image Processing
-  * 2019-present
-
-* Teacher Assistant
-  * Data Analytics course for graduate and post-graduate students
-  * Queen Mary University of London (London, UK)
-  * Supervisor Dr. Anthony Constantinou
-  * 2019
 
 * Senior Teacher Assistant
   * Data Mining course for graduate and post-graduate students
   * Queen Mary University of London (London, UK)
   * Supervisor Prof. Ioannis Patras and Dr. Jesus Requena Carrión
+  * 2019
+
+
+* Teacher Assistant
+  * Data Analytics course for graduate and post-graduate students
+  * Queen Mary University of London (London, UK)
+  * Supervisor Dr. Anthony Constantinou
   * 2019
 
 * Intern
@@ -76,6 +74,10 @@ Work experience
 
 Volunteering
 ======
+* Reviewer
+  * IEEE International Conference on Image Processing
+  * 2019-present
+
 * Reviewer
   * IEEE Transactions on Circuits and Systems for Video Technology
   * 2016-present
