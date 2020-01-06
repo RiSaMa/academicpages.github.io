@@ -101,7 +101,7 @@ Skills
 * Others:
   * Hard work
   * Flexible
-  * Quick learner
+  * Quick learning
   * Teamwork
   * Ambition
   * Leadership
