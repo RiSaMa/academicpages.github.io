@@ -16,7 +16,7 @@ As research assistant, I collaborated in international projects where I investig
  
 With more than 6 years of working experience, I got my work published in peer-reviewed international journals such as IEEE Signal Processing Magazine, IEEE Transactions on Robotics and Automation Letters; and international conferences including IEEE/RSJ Int. Conf. on Intelligent Robots and Systems, IEEE Int. Conf. on Image Processing, ACM Multimedia and IEEE Int. Conf. on Acoustics, Speech and Signal Processing.
 
-One-page CV [*here*](https://risama.github.io/files/CV.pdf)
+One-page CV [*here*](https://risama.github.io/files/CV.pdf).
 
 Highlights
 ======
