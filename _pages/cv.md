@@ -11,27 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Vision
-  * Project *Online multiple object tracking*
-  * Queen Mary University of London (United Kingdom)
+* Ph.D in Electronic Engineering and Computer Science
+  * Thesis title: *Object localisation, dimensions estimation and tracking*
+  * Queen Mary University of London (London, UK)
   * Supervisor Prof. Andrea Cavallaro
   * 2020 (expected)
 
-* M.Sc. in Telecommunication Engineering
-  * Project *Hierarchical detection of groups of people under occlusions*
-  * Universidad Autónoma de Madrid (Spain)
+* B.Sc. and M.Sc. in Telecommunication Engineering
+  * Thesis title: *Hierarchical detection of groups of people under occlusions*
+  * Universidad Autónoma de Madrid (Madrid, Spain)
   * Supervisor Prof. Jose María Martínez Sánchez
   * 2014
 
-* B.Sc. in Telecommunication Engineering
-  * Universidad Autónoma de Madrid (Spain)
-  * 2014
 
 Work experience
 ======
 
 * Assistant researcher
-  * Computer Vision assistant researcher in the project [*CORSMAL*](http://corsmal.eecs.qmul.ac.uk). Main focus on estimation of physical properties of objects for human-to-robot handover of unseen objects from visual data
+  * Computer Vision research in the project [*CORSMAL*](http://corsmal.eecs.qmul.ac.uk). Main focus on estimation of physical properties of objects for human-to-robot handover of unseen objects from visual data
   * Queen Mary University of London (London, UK)
   * Supervisor Prof. Andrea Cavallaro
   * 2019-present
@@ -55,7 +52,7 @@ Work experience
 * Intern
   * Deep learning for object tracking over occlusion
   * The Alan Turing Insitute (London, UK)
-  * Supervisors Vaishak Belle, Chris Russell and Brooks Paige
+  * Supervisors Dr. Vaishak Belle, Dr. Chris Russell and Dr. Brooks Paige
   * 2018
 
 * Teacher Assistant
@@ -63,14 +60,6 @@ Work experience
   * Queen Mary University of London (London, UK)
   * Supervisor Prof. Ioannis Patras
   * 2018
-
-* Reviewer
-  * IEEE Transactions on Circuits and Systems for Video Technology
-  * 2016-present
-
-* Reviewer
-  * IEEE/RSJ International Conference on Intelligent Robots and Systems
-  * 2016-present
 
 * Assistant researcher
   * Computer Vision assistant researcher in multiple projects including the European project [*COPCAMS*](http://www.copcams.eu). Main focus on multi-object tracking from visual data
@@ -83,6 +72,17 @@ Work experience
   * Universidad Autónoma de Madrid (Madrid, Spain)
   * Supervisor Prof. Jose María Martínez Sánchez
   * 2013-2014
+
+
+Volunteering
+======
+* Reviewer
+  * IEEE Transactions on Circuits and Systems for Video Technology
+  * 2016-present
+
+* Reviewer
+  * IEEE/RSJ International Conference on Intelligent Robots and Systems
+  * 2016-present
 
 
 Skills
