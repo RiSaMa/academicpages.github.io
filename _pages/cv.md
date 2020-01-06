@@ -27,19 +27,17 @@ Education
 Work experience
 ======
 
-* Assistant researcher
-  * Computer Vision research in the project [*CORSMAL*](http://corsmal.eecs.qmul.ac.uk). Main focus on estimation of physical properties of objects for human-to-robot handover of unseen objects from visual data
+* Research assistant
+  * Computer Vision research in multiple projects including [*COPCAMS project*](http://www.copcams.eu) for multi-object tracking from visual data, [*CORSMAL project*](http://corsmal.eecs.qmul.ac.uk) for estimating the physical properties of objects for human-to-robot handover of unseen objects from visual data
   * Queen Mary University of London (London, UK)
   * Supervisor Prof. Andrea Cavallaro
-  * 2019-present
-
+  * 2014-present
 
 * Senior Teacher Assistant
   * Data Mining course for graduate and post-graduate students
   * Queen Mary University of London (London, UK)
   * Supervisor Prof. Ioannis Patras and Dr. Jesus Requena Carrión
   * 2019
-
 
 * Teacher Assistant
   * Data Analytics course for graduate and post-graduate students
@@ -59,16 +57,10 @@ Work experience
   * Supervisor Prof. Ioannis Patras
   * 2018
 
-* Assistant researcher
-  * Computer Vision assistant researcher in multiple projects including the European project [*COPCAMS*](http://www.copcams.eu). Main focus on multi-object tracking from visual data
-  * Queen Mary University of London (London, UK)
-  * Supervisor Prof. Andrea Cavallaro
-  * 2014-2015
-
 * Researcher
-  * Computer Vision researcher under the European project [*EventVideo*](http://www-vpu.eps.uam.es/eventvideo/) for object detection from visual data. Main focus on object detection under occlusions from visual data.
+  * Computer Vision research under the European project [*EventVideo*](http://www-vpu.eps.uam.es/eventvideo/) for object detection from visual data. Main focus on object detection under occlusions from visual data.
   * Universidad Autónoma de Madrid (Madrid, Spain)
-  * Supervisor Prof. Jose María Martínez Sánchez
+  * Supervisor Dr. Jose María Martínez Sánchez
   * 2013-2014
 
 
